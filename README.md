@@ -1,5 +1,5 @@
-## Hi there, I'm Emilio Romero 👋
-Front-end developer based in Paraguay, I code and (occasionally design) things for the web.
+## Hi there, I'm Emilio 👋
+__Front-end__ developer based in Paraguay, _I code and (occasionally design) things for the web._
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrocode)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emiliorrmz)
@@ -17,5 +17,5 @@ Front-end developer based in Paraguay, I code and (occasionally design) things f
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=emrocode&show_icons=true&hide_border=true&bg_color=303836&title_color=f8f9f8&text_color=f8f9f8&icon_color=798c87&border_color=424d4a" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emrocode&show_icons=true&hide_border=true&bg_color=303836&title_color=ebebeb&text_color=ebebeb&icon_color=a9a9a9" />
 </details>
