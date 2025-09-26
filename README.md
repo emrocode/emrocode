@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emilio
+## Hi There 👋 I'm Emilio
 #### 🌐 Full-Stack Web Developer | Computer Engineering Student | Minimalist Coder
 
 ## About Me
@@ -7,13 +7,14 @@
 * 📚 Always learning and refining best practices.
 
 ## 🛠️ Tech Stack & Focus
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,postgres,mongodb,git,vscode" />
+![Skills]
 
-## Find me on:
+## Find Me On:
 * [LinkedIn]
 * [Bluesky]
 * [CodePen]
 
+[Skills]: https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,postgres,mongodb,git,vscode
 [LinkedIn]: https://linkedin.com/in/emrocode
 [Bluesky]: https://bsky.app/profile/emrocode.bsky.social
 [CodePen]: https://codepen.io/emrocode
