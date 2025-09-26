@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Emilio
+#### 🌐 Full-Stack Web Developer | Computer Engineering Student | Minimalist Coder
 
-<!--
-**emrocode/emrocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* 🎯 **Web Engineering:** Building robust and scalable web solutions with a focus on **Developer Experience (DX)** and performance.
+* ✨ I prioritize **clean code** and performance (no comments, just clarity!).
+* 📚 Always learning and refining best practices.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Focus
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,postgres,mongodb,git,vscode" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me on:
+* [LinkedIn]
+* [Bluesky]
+* [CodePen]
+
+[LinkedIn]: https://linkedin.com/in/emrocode
+[Bluesky]: https://bsky.app/profile/emrocode.bsky.social
+[CodePen]: https://codepen.io/emrocode
