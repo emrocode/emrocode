@@ -27,7 +27,7 @@ A software developer focused on building modern web applications.
 
 - **Tools & OS**
 
-<!-- SKILL_ICONS_START icons="git,github,vercel,nvm,nodedotjs,deno,npm,linuxmint" -->
+<!-- SKILL_ICONS_START icons="git,github,vercel,nodedotjs,deno,npm,linuxmint" -->
 ![][SKILL_ICONS_2]
 <!-- SKILL_ICONS_END -->
 
