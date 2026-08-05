@@ -16,19 +16,25 @@ A software developer focused on building modern web applications.
 - **Languages & Frameworks**
 
 <!-- SKILL_ICONS_START icons="javascript,typescript,react,nextdotjs,tailwindcss,fastify" -->
+
 ![][SKILL_ICONS_0]
+
 <!-- SKILL_ICONS_END -->
 
 - **Databases**
 
 <!-- SKILL_ICONS_START icons="mongodb" -->
+
 ![][SKILL_ICONS_1]
+
 <!-- SKILL_ICONS_END -->
 
 - **Tools & OS**
 
 <!-- SKILL_ICONS_START icons="git,github,vercel,nodedotjs,deno,npm,linuxmint" -->
+
 ![][SKILL_ICONS_2]
+
 <!-- SKILL_ICONS_END -->
 
 <details>
@@ -40,6 +46,6 @@ A software developer focused on building modern web applications.
 
 [stats]: https://github-stats-extended.vercel.app/api?username=emrocode&rank_icon=github&show_icons=true&hide_title=true&hide_border=true&theme=transparent
 
-[SKILL_ICONS_0]: assets/svgs/javascript..fastify.svg
-[SKILL_ICONS_1]: assets/svgs/mongodb.svg
-[SKILL_ICONS_2]: assets/svgs/git..linuxmint.svg
+[SKILL_ICONS_0]: assets/svgs/javascript..fastify-27cd134.svg
+[SKILL_ICONS_1]: assets/svgs/mongodb-7f1c982.svg
+[SKILL_ICONS_2]: assets/svgs/git..linuxmint-9ab0688.svg
