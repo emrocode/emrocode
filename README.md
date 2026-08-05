@@ -46,6 +46,6 @@ A software developer focused on building modern web applications.
 
 [stats]: https://github-stats-extended.vercel.app/api?username=emrocode&rank_icon=github&show_icons=true&hide_title=true&hide_border=true&theme=transparent
 
-[SKILL_ICONS_0]: assets/svgs/typescript..fastify-949bd1e.svg
+[SKILL_ICONS_0]: assets/svgs/javascript..hono-36e54b8.svg
 [SKILL_ICONS_1]: assets/svgs/mongodb-7f1c982.svg
 [SKILL_ICONS_2]: assets/svgs/git..linuxmint-9ab0688.svg
