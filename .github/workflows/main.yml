@@ -17,4 +17,4 @@ jobs:
         id: skill-icons
         uses: emrocode/skill-icons@v1
         with:
-          icon_size: 24
+          icon_size: 36
