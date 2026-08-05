@@ -7,11 +7,11 @@
   </samp>
 </p>
 
-### Hi there 👋 I'm Emilio
+## Hi there 👋 I'm Emilio
 
 A software developer focused on building modern web applications.
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Languages & Frameworks**
 
