@@ -15,6 +15,6 @@ jobs:
 
       - name: Generate Skill Icons
         id: skill-icons
-        uses: emrocode/skill-icons@v1.0.6
+        uses: emrocode/skill-icons@v1
         with:
           icon_size: 36
