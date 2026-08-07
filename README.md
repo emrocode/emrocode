@@ -15,7 +15,7 @@ A software developer focused on building modern web applications.
 
 - **Languages & Frameworks**
 
-<!-- SKILL_ICONS_START icons="css,tailwindcss,javascript,typescript,react,nextdotjs,fastify" -->
+<!-- SKILL_ICONS_START icons="javascript,tailwindcss,typescript,react,nextdotjs,fastify" -->
 
 ![][SKILL_ICONS_0]
 
