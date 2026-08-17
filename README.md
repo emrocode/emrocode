@@ -37,12 +37,9 @@ A software developer focused on building modern web applications.
 
 <!-- SKILL_ICONS_END -->
 
-<details>
-  <summary><h4>:shipit: GitHub Stats</h4></summary>
+### :shipit: GitHub Stats</h4></summary>
 
 ![][stats]
-
-</details>
 
 [stats]: https://github-stats-extended.vercel.app/api?username=emrocode&rank_icon=github&show_icons=true&hide_title=true&hide_border=true&theme=transparent
 
