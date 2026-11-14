@@ -43,6 +43,6 @@ A software developer focused on building modern web applications.
 
 [stats]: assets/profile/stats.svg
 
-[SKILL_ICONS_0]: assets/svgs/javascript..fastify-27cd134.svg
+[SKILL_ICONS_0]: assets/svgs/javascript..fastify-5776313.svg
 [SKILL_ICONS_1]: assets/svgs/mongodb-7f1c982.svg
 [SKILL_ICONS_2]: assets/svgs/git..linuxmint-9ab0688.svg
